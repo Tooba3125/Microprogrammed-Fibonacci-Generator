@@ -33,6 +33,10 @@ Implemented a microprogrammed controller that generates the Fibonacci sequence (
    - Changed to 3-bit to match states (IDLE, INIT, OP, DONE)
 
 ## Files Implemented
+Controller.v
+datapath.v
+Top.v
+fibonacci_tb.v
 
 <img width="407" height="546" alt="image" src="https://github.com/user-attachments/assets/946e76e8-28b1-4488-8ee9-fa7c2fa005de" />
 
